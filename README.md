@@ -4,12 +4,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amritpaxt/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/amritpaxt/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritpaxt/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/amritpaxt/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/amritpaxt/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amritpaxt/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/amritpaxt/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
