@@ -37,6 +37,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/amritpaxt/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/amritpaxt/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amritpaxt/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
