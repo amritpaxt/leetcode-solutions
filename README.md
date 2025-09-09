@@ -26,6 +26,7 @@
 | [0009-palindrome-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0189-rotate-array) |
+| [1610-xor-operation-in-an-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -72,4 +73,5 @@
 | [0136-single-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/amritpaxt/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/amritpaxt/leetcode-solutions/tree/master/0338-counting-bits) |
+| [1610-xor-operation-in-an-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
