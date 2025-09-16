@@ -38,6 +38,7 @@
 | [0001-two-sum](https://github.com/amritpaxt/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/amritpaxt/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/amritpaxt/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/amritpaxt/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritpaxt/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -83,4 +85,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
