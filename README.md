@@ -14,6 +14,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritpaxt/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/amritpaxt/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/amritpaxt/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/amritpaxt/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/amritpaxt/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/amritpaxt/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amritpaxt/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/amritpaxt/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amritpaxt/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/amritpaxt/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0338-counting-bits](https://github.com/amritpaxt/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Trie
