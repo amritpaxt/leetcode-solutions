@@ -15,6 +15,7 @@
 | [0005-longest-palindromic-substring](https://github.com/amritpaxt/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/amritpaxt/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/amritpaxt/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/amritpaxt/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/amritpaxt/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/amritpaxt/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/amritpaxt/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/amritpaxt/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
@@ -52,6 +54,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/amritpaxt/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritpaxt/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/amritpaxt/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sliding Window
