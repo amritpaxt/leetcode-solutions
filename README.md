@@ -75,6 +75,7 @@
 | [0283-move-zeroes](https://github.com/amritpaxt/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/amritpaxt/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0525-contiguous-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/amritpaxt/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Hash Table
@@ -90,6 +91,7 @@
 | [0219-contains-duplicate-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/amritpaxt/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0525-contiguous-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/amritpaxt/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/amritpaxt/leetcode-solutions/tree/master/0706-design-hashmap) |
@@ -192,5 +194,6 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amritpaxt/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
