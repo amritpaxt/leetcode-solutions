@@ -181,10 +181,12 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -193,6 +195,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
 |  |
@@ -208,4 +211,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amritpaxt/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
