@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amritpaxt/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/amritpaxt/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/amritpaxt/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0706-design-hashmap](https://github.com/amritpaxt/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Math
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amritpaxt/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/amritpaxt/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/amritpaxt/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amritpaxt/leetcode-solutions/tree/master/0191-number-of-1-bits) |
@@ -219,4 +221,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amritpaxt/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amritpaxt/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
