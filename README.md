@@ -193,6 +193,7 @@
 | [0303-range-sum-query-immutable](https://github.com/amritpaxt/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/amritpaxt/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/amritpaxt/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [2069-walking-robot-simulation-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Hash Function
 |  |
 | ------- |
@@ -228,6 +229,7 @@
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/amritpaxt/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2069-walking-robot-simulation-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Stack
 |  |
 | ------- |
