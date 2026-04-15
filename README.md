@@ -36,6 +36,7 @@
 | [0392-is-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/amritpaxt/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/amritpaxt/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
