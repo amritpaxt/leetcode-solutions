@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/amritpaxt/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/amritpaxt/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/amritpaxt/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/amritpaxt/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/amritpaxt/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Hash Table
@@ -130,6 +132,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amritpaxt/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/amritpaxt/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/amritpaxt/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
