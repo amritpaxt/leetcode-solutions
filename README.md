@@ -99,6 +99,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amritpaxt/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/amritpaxt/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/amritpaxt/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@
 | [0706-design-hashmap](https://github.com/amritpaxt/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0874-walking-robot-simulation](https://github.com/amritpaxt/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2615-sum-of-distances](https://github.com/amritpaxt/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/amritpaxt/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Sliding Window
 |  |
@@ -233,6 +235,7 @@
 | [0303-range-sum-query-immutable](https://github.com/amritpaxt/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2615-sum-of-distances](https://github.com/amritpaxt/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Simulation
 |  |
 | ------- |
