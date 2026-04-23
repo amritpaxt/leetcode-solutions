@@ -99,6 +99,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amritpaxt/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/amritpaxt/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/amritpaxt/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
@@ -156,6 +157,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/amritpaxt/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
