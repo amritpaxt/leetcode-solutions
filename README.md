@@ -97,6 +97,7 @@
 | [0874-walking-robot-simulation](https://github.com/amritpaxt/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amritpaxt/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amritpaxt/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Counting
 |  |
@@ -225,6 +227,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -255,6 +258,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -275,4 +279,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/amritpaxt/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
