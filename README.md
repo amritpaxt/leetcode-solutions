@@ -107,6 +107,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/amritpaxt/leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/amritpaxt/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/amritpaxt/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Hash Table
 |  |
@@ -131,6 +132,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2615-sum-of-distances](https://github.com/amritpaxt/leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/amritpaxt/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/amritpaxt/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Sliding Window
 |  |
@@ -192,6 +194,7 @@
 | [1340-jump-game-v](https://github.com/amritpaxt/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2784-check-if-array-is-good](https://github.com/amritpaxt/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Backtracking
 |  |
 | ------- |
