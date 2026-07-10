@@ -39,6 +39,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1871-jump-game-vii](https://github.com/amritpaxt/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3713-longest-balanced-substring-i](https://github.com/amritpaxt/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Linked List
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [2615-sum-of-distances](https://github.com/amritpaxt/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/amritpaxt/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/amritpaxt/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
+| [3713-longest-balanced-substring-i](https://github.com/amritpaxt/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/amritpaxt/leetcode-solutions/tree/master/0383-ransom-note) |
+| [3713-longest-balanced-substring-i](https://github.com/amritpaxt/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
@@ -297,4 +300,8 @@
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/amritpaxt/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
