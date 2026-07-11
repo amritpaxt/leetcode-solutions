@@ -244,6 +244,7 @@
 | [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/amritpaxt/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -276,6 +277,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/amritpaxt/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -300,8 +302,13 @@
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/amritpaxt/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/amritpaxt/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/amritpaxt/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
