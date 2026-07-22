@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/amritpaxt/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/amritpaxt/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amritpaxt/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/amritpaxt/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amritpaxt/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -79,6 +80,7 @@
 | [0014-longest-common-prefix](https://github.com/amritpaxt/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/amritpaxt/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amritpaxt/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/amritpaxt/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
@@ -191,6 +193,7 @@
 | ------- |
 | [0015-3sum](https://github.com/amritpaxt/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amritpaxt/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/amritpaxt/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/amritpaxt/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amritpaxt/leetcode-solutions/tree/master/0217-contains-duplicate) |
