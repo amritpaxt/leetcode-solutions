@@ -60,6 +60,7 @@
 | [0012-integer-to-roman](https://github.com/amritpaxt/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amritpaxt/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/amritpaxt/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amritpaxt/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/amritpaxt/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0096-unique-binary-search-trees](https://github.com/amritpaxt/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritpaxt/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/amritpaxt/leetcode-solutions/tree/master/0338-counting-bits) |
@@ -249,6 +251,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amritpaxt/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/amritpaxt/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -262,11 +265,13 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/amritpaxt/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amritpaxt/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/amritpaxt/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
