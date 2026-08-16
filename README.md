@@ -103,6 +103,7 @@
 | [0283-move-zeroes](https://github.com/amritpaxt/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/amritpaxt/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/amritpaxt/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -136,6 +137,7 @@
 | [0217-contains-duplicate](https://github.com/amritpaxt/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/amritpaxt/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/amritpaxt/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -170,6 +172,7 @@
 | [0169-majority-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/amritpaxt/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amritpaxt/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/amritpaxt/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -208,6 +211,7 @@
 | [0169-majority-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amritpaxt/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/amritpaxt/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1340-jump-game-v](https://github.com/amritpaxt/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -229,6 +233,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/amritpaxt/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/amritpaxt/leetcode-solutions/tree/master/0383-ransom-note) |
 | [3713-longest-balanced-substring-i](https://github.com/amritpaxt/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
@@ -307,6 +312,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amritpaxt/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/amritpaxt/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -340,4 +346,12 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/amritpaxt/leetcode-solutions/tree/master/0127-word-ladder) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/amritpaxt/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/amritpaxt/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
