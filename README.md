@@ -15,6 +15,7 @@
 | [0125-valid-palindrome](https://github.com/amritpaxt/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/amritpaxt/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/amritpaxt/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amritpaxt/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -63,6 +64,7 @@
 | [0066-plus-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/amritpaxt/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amritpaxt/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -134,6 +136,7 @@
 | [0073-set-matrix-zeroes](https://github.com/amritpaxt/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/amritpaxt/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/amritpaxt/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
@@ -354,4 +357,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/amritpaxt/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
