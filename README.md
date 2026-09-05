@@ -92,6 +92,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/amritpaxt/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/amritpaxt/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amritpaxt/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/amritpaxt/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/amritpaxt/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/amritpaxt/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritpaxt/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amritpaxt/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
