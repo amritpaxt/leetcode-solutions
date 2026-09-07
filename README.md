@@ -40,6 +40,7 @@
 | [0383-ransom-note](https://github.com/amritpaxt/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/amritpaxt/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0940-distinct-subsequences-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1871-jump-game-vii](https://github.com/amritpaxt/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -191,6 +192,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/amritpaxt/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1340-jump-game-v](https://github.com/amritpaxt/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/amritpaxt/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
