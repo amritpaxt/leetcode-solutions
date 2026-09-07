@@ -39,6 +39,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/amritpaxt/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/amritpaxt/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amritpaxt/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/amritpaxt/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0940-distinct-subsequences-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -145,6 +146,7 @@
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/amritpaxt/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/amritpaxt/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amritpaxt/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/amritpaxt/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
@@ -162,6 +164,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amritpaxt/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amritpaxt/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1871-jump-game-vii](https://github.com/amritpaxt/leetcode-solutions/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
