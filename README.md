@@ -95,6 +95,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/amritpaxt/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/amritpaxt/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amritpaxt/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amritpaxt/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/amritpaxt/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
