@@ -70,6 +70,7 @@
 | [0189-rotate-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/amritpaxt/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amritpaxt/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1610-xor-operation-in-an-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
@@ -345,6 +346,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/amritpaxt/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amritpaxt/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Union-Find
 |  |
