@@ -279,12 +279,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/amritpaxt/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/amritpaxt/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amritpaxt/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/amritpaxt/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -299,6 +301,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/amritpaxt/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/amritpaxt/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
 |  |
@@ -323,6 +326,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/amritpaxt/leetcode-solutions/tree/master/0127-word-ladder) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/amritpaxt/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
