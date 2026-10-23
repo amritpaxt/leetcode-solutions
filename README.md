@@ -103,6 +103,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/amritpaxt/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/amritpaxt/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/amritpaxt/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/0066-plus-one) |
@@ -147,6 +148,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/amritpaxt/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/amritpaxt/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/amritpaxt/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/amritpaxt/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/amritpaxt/leetcode-solutions/tree/master/0127-word-ladder) |
