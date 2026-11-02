@@ -108,6 +108,7 @@
 | [0041-first-missing-positive](https://github.com/amritpaxt/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/amritpaxt/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/amritpaxt/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/amritpaxt/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/amritpaxt/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -261,6 +262,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/amritpaxt/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/amritpaxt/leetcode-solutions/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
@@ -431,4 +433,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/amritpaxt/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/amritpaxt/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
