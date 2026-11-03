@@ -122,6 +122,7 @@
 | [0219-contains-duplicate-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amritpaxt/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/amritpaxt/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/amritpaxt/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/amritpaxt/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -269,6 +270,7 @@
 | [0036-valid-sudoku](https://github.com/amritpaxt/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/amritpaxt/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/amritpaxt/leetcode-solutions/tree/master/0289-game-of-life) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -342,6 +344,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/amritpaxt/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0874-walking-robot-simulation](https://github.com/amritpaxt/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2069-walking-robot-simulation-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
