@@ -131,6 +131,7 @@
 | [0455-assign-cookies](https://github.com/amritpaxt/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/amritpaxt/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/amritpaxt/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0874-walking-robot-simulation](https://github.com/amritpaxt/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amritpaxt/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -347,6 +348,7 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/amritpaxt/leetcode-solutions/tree/master/0289-game-of-life) |
+| [0682-baseball-game](https://github.com/amritpaxt/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/amritpaxt/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2069-walking-robot-simulation-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
@@ -355,6 +357,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/amritpaxt/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/amritpaxt/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0682-baseball-game](https://github.com/amritpaxt/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Breadth-First Search
 |  |
 | ------- |
