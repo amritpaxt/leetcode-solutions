@@ -140,6 +140,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amritpaxt/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1929-concatenation-of-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/amritpaxt/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -355,6 +356,7 @@
 | [0682-baseball-game](https://github.com/amritpaxt/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/amritpaxt/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1929-concatenation-of-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Stack
 |  |
