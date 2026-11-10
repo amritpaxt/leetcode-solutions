@@ -69,6 +69,7 @@
 | [0013-roman-to-integer](https://github.com/amritpaxt/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/amritpaxt/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/amritpaxt/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amritpaxt/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/amritpaxt/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -202,6 +203,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/amritpaxt/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/amritpaxt/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0268-missing-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amritpaxt/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/amritpaxt/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
@@ -458,4 +460,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/amritpaxt/leetcode-solutions/tree/master/0051-n-queens) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amritpaxt/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
