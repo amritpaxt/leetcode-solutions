@@ -114,6 +114,7 @@
 | [0053-maximum-subarray](https://github.com/amritpaxt/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/amritpaxt/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/amritpaxt/leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritpaxt/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -247,6 +248,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/amritpaxt/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/amritpaxt/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amritpaxt/leetcode-solutions/tree/master/0191-number-of-1-bits) |
@@ -279,6 +281,7 @@
 | [0022-generate-parentheses](https://github.com/amritpaxt/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/amritpaxt/leetcode-solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/amritpaxt/leetcode-solutions/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Matrix
 |  |
