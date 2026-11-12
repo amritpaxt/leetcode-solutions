@@ -281,6 +281,7 @@
 | [0022-generate-parentheses](https://github.com/amritpaxt/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/amritpaxt/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/amritpaxt/leetcode-solutions/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/amritpaxt/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/amritpaxt/leetcode-solutions/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Matrix
