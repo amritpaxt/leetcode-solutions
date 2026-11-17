@@ -143,6 +143,7 @@
 | [1340-jump-game-v](https://github.com/amritpaxt/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1833-maximum-ice-cream-bars](https://github.com/amritpaxt/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/amritpaxt/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amritpaxt/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -273,6 +274,7 @@
 | [0455-assign-cookies](https://github.com/amritpaxt/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1340-jump-game-v](https://github.com/amritpaxt/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/amritpaxt/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2747-count-zero-request-servers](https://github.com/amritpaxt/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/amritpaxt/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -313,6 +315,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/amritpaxt/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/amritpaxt/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1833-maximum-ice-cream-bars](https://github.com/amritpaxt/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Design
 |  |
 | ------- |
@@ -406,6 +409,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amritpaxt/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/amritpaxt/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Geometry
 |  |
 | ------- |
