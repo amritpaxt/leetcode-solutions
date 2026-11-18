@@ -49,6 +49,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amritpaxt/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1871-jump-game-vii](https://github.com/amritpaxt/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/amritpaxt/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/amritpaxt/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3713-longest-balanced-substring-i](https://github.com/amritpaxt/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Linked List
 |  |
