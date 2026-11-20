@@ -155,6 +155,7 @@
 | [2615-sum-of-distances](https://github.com/amritpaxt/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2747-count-zero-request-servers](https://github.com/amritpaxt/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/amritpaxt/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/amritpaxt/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3488-closest-equal-element-queries](https://github.com/amritpaxt/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3665-twisted-mirror-path-count](https://github.com/amritpaxt/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
@@ -243,6 +244,7 @@
 | [1340-jump-game-v](https://github.com/amritpaxt/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/amritpaxt/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/amritpaxt/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/amritpaxt/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3665-twisted-mirror-path-count](https://github.com/amritpaxt/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Trie
 |  |
@@ -279,6 +281,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/amritpaxt/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2747-count-zero-request-servers](https://github.com/amritpaxt/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/amritpaxt/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/amritpaxt/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Backtracking
 |  |
 | ------- |
