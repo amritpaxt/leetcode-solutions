@@ -39,6 +39,7 @@
 | [0049-group-anagrams](https://github.com/amritpaxt/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/amritpaxt/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/amritpaxt/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/amritpaxt/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/amritpaxt/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/amritpaxt/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -237,6 +238,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritpaxt/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/amritpaxt/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0338-counting-bits](https://github.com/amritpaxt/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/amritpaxt/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -291,6 +293,7 @@
 | [0051-n-queens](https://github.com/amritpaxt/leetcode-solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/amritpaxt/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/amritpaxt/leetcode-solutions/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/amritpaxt/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/amritpaxt/leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Matrix
 |  |
